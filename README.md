@@ -11,19 +11,19 @@ livelink is an advanced URL Shortener Platform, that allows you to easily shorte
 
 livelink's Website Platforms:
 
- Website: https://livelink.pro/Website
+- Website: https://livelink.pro/Website
 
-Website: https://livelink.pro/status
+- Website: https://livelink.pro/status
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 
 You can download the livelink app on iOS and Android or write on the web version of the app!
 
-iOS: 
-Android: 
-Web: https://app.livelink.pro/
-Web: https://livelink.pro/
+- iOS: 
+- Android: 
+- Web: https://app.livelink.pro/
+- Web: https://livelink.pro/
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
