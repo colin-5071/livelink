@@ -36,9 +36,9 @@ Have an app related request or need support? Follow this link: https://support.l
 
 livelink's Social Platforms:
 
-Youtube: https://livelink.pro/youtube 
-facebook: https://livelink.pro/facebook
-Instagram: https://livelink.pro/instagram
-Twitter: https://livelink.pro/twitter
- Business Inquiries: business@livelink.pro
- Discord Server Invite {Invite your friends!}: https://livelink.pro/discord
+- Youtube: https://livelink.pro/youtube 
+- facebook: https://livelink.pro/facebook
+- Instagram: https://livelink.pro/instagram
+- Twitter: https://livelink.pro/twitter
+- Business Inquiries: business@livelink.pro
+- Discord Server Invite {Invite your friends!}: https://livelink.pro/discord
